@@ -1,0 +1,121 @@
+{
+  "animations": [
+    {
+      "offsets": [-5, 100],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "ExtraLife Idle"
+    },
+    {
+      "offsets": [6, 98],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "ExtraLife Left"
+    },
+    {
+      "offsets": [26, 79],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "ExtraLife Down"
+    },
+    {
+      "offsets": [10, 104],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "ExtraLife Up"
+    },
+    {
+      "offsets": [-2, 95],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "ExtraLife Right"
+    },
+    {
+      "offsets": [-7, 101],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT-alt",
+      "indices": [],
+      "name": "Laugh1"
+    },
+    {
+      "offsets": [-8, 86],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP-alt",
+      "indices": [],
+      "name": "Laugh2"
+    },
+    {
+      "loop": false,
+      "offsets": [-8, 97],
+      "anim": "notbad",
+      "fps": 24,
+      "name": "ExtraLife NotBad",
+      "indices": []
+    },
+    {
+      "offsets": [44, 98],
+      "loop": false,
+      "fps": 24,
+      "anim": "enough",
+      "indices": [],
+      "name": "ExtraLife Enough"
+    },
+    {
+      "loop": false,
+      "offsets": [84, 98],
+      "anim": "scream",
+      "fps": 24,
+      "name": "ExtraLife Scream",
+      "indices": []
+    },
+    {
+      "offsets": [90, 111],
+      "loop": false,
+      "fps": 24,
+      "anim": "ugly",
+      "indices": [],
+      "name": "ExtraLife Ugly"
+    },
+    {
+      "loop": false,
+      "offsets": [-8, 93],
+      "anim": "ugly2",
+      "fps": 24,
+      "name": "ExtraLife ugly2",
+      "indices": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+        38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54
+      ]
+    },
+    {
+      "offsets": [354, 658],
+      "indices": [],
+      "fps": 24,
+      "anim": "finale",
+      "loop": false,
+      "name": "ExtraLife Final"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Extralife",
+  "position": [0, 350],
+  "healthicon": "extraicons",
+  "flip_x": false,
+  "healthbar_colors": [56, 76, 95],
+  "camera_position": [0, -70],
+  "sing_duration": 4,
+  "scale": 1
+}

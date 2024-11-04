@@ -1,0 +1,13 @@
+{
+  "songs": [["revival", "extraicons", [6, 73, 93]]],
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "difficulties": "",
+  "weekCharacters": ["", "bf", ""],
+  "storyName": "revival high effort",
+  "weekName": "revival",
+  "freeplayColor": [146, 113, 253],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}

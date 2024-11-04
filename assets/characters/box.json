@@ -1,0 +1,37 @@
+{
+  "animations": [
+    {
+      "offsets": [-40, -140],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle-alt",
+      "indices": [],
+      "name": "IdleBox"
+    },
+    {
+      "offsets": [-43, -145],
+      "loop": false,
+      "fps": 24,
+      "anim": "laugh1",
+      "indices": [],
+      "name": "BoxLaugh"
+    },
+    {
+      "offsets": [-40, -140],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "IdleBox"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Box",
+  "position": [0, 360],
+  "healthicon": "extraicons",
+  "flip_x": false,
+  "healthbar_colors": [56, 76, 95],
+  "camera_position": [-100, 90],
+  "sing_duration": 4,
+  "scale": 1
+}
